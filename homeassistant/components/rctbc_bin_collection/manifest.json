@@ -1,0 +1,14 @@
+{
+  "domain": "rctbc_bin_collection",
+  "name": "RCTBC Bin Collection",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/rctbc_bin_collection",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": [
+    "@csseal"
+  ]
+}

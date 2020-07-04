@@ -131,6 +131,7 @@ FLOWS = [
     "pvpc_hourly_pricing",
     "rachio",
     "rainmachine",
+    "rctbc_bin_collection",
     "ring",
     "roku",
     "roomba",
